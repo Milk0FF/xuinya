@@ -10,7 +10,7 @@ import retrofit2.Retrofit;
 public class ApiHandler {
     private static ApiHandler mInstance;
 
-    private static final String BASE_URL = "http://mskko2021.mad.hakta.pro/api";
+    private static final String BASE_URL = "http://mskko2021.mad.hakta.pro/";
 
     private Retrofit retrofit;
 
